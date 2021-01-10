@@ -1,2 +1,2 @@
 # icivann.github.io
-Redirection to icivann/ivann
+Redirection to https://icivann.github.io/ivann/
